@@ -24,8 +24,7 @@ public class GlobalExceptionHandeler {
 		return new ResponseEntity<ApiResponse<UpdateSalesResponse>>(apiresponse, HttpStatus.INTERNAL_SERVER_ERROR);
 		
 	}
-	//** STUDY VIDEO_NO. 3 AGAIN **
-	//** STUDY VIDEO_NO. 5 AGAIN **
+	
 	//** STUDY BUILDER_PATTERN AGAIN **
 	//** STUDY RECORDS AGAIN **
 	}
